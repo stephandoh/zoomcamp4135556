@@ -5,3 +5,6 @@ logs/
 dbt_internal_packages/
 dbt_project.yml
 sources.yml
+data/
+fhv_data/
+*.csv.gz

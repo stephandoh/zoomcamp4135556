@@ -1,0 +1,1 @@
+SELECT COUNT(*)  FROM {{ ref('fct_monthly_zone_revenue') }} AS count_fct_monthly_zone_revenue

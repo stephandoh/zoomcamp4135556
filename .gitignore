@@ -8,3 +8,5 @@ sources.yml
 data/
 fhv_data/
 *.csv.gz
+*.parquet
+
